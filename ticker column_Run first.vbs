@@ -1,5 +1,3 @@
-Attribute VB_Name = "Module1"
-
 Sub Ticker_column_RUN_FIRST()
 
 '! must be run first
