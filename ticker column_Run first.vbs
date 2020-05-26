@@ -14,10 +14,10 @@ For Each ws In ThisWorkbook.Worksheets
  
  'sort
  
-Range("A2").Select
+Range("A1").Select
 Range(Selection, Selection.End(xlToRight)).Select
 Range(Selection, Selection.End(xlDown)).Select
-Selection.sort key1:=Range("A2", Range("A2").End(xlDown)), order1:=xlAscending, key2:=Range("B2", Range("B2").End(xlDown)), order2:=xlAscending, Header:=xlYes
+Selection.sort key1:=Range("A1", Range("A1").End(xlDown)), order1:=xlAscending, key2:=Range("B1", Range("B1").End(xlDown)), order2:=xlAscending, Header:=xlYes
 
     ' set up header
     
