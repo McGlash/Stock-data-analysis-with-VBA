@@ -1,8 +1,8 @@
-# VBA Challenge - The VBA of Wall Street
+# The VBA of Wall Street
 
 ## Background
 
-In this challenge, I used VBA scripting to analyze real stock market data. 
+I used VBA scripting to analyze real stock market data. 
 
 ### Data
 
